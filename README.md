@@ -134,4 +134,4 @@ The application relies on three main collections in Firebase:
 * **University Branding:** Logos are located in `client/public/` and text branding is in `App.jsx`.
 
 ---
-*© 2025 University Wi-Fi Portal. All Rights Reserved.*
+*© 2025 Shivaji University Wi-Fi Portal. All Rights Reserved.*
